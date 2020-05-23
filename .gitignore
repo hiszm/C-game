@@ -1,4 +1,4 @@
-*.c linguist-language=c++；
+*.exe linguist-language=c++；
 
 
 # Prerequisites
